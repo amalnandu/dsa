@@ -17,16 +17,10 @@ public:
         return -1;
     }
 
-
-
-
-
-
-
 };
 
 
- int main(){
+int main(){
 
 vector<int>nums= {1,2,2,3,4,5,6};
 Solution solution;
